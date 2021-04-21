@@ -1,0 +1,100 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# [youtube.com]
+0.0.0.0 ads.youtube.com
+0.0.0.0 youtube.cleverads.vn
+0.0.0.0  www.youtube-nocookie.com #[affects various videos]
+0.0.0.0  static.2mdn.net #[affects Youtube]
+0.0.0.0 s.youtube.com  # Blocking this will interfere with video watching history
+0.0.0.0 s2.youtube.com
+0.0.0.0 youtube.112.2o7.net
+0.0.0.0 ehg-youtube.hitbox.com
+
+# [googleads]
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 4.afs.googleadservices.com
+0.0.0.0 feedads.googleadservices.com
+0.0.0.0 m4.afs.googleadservices.com
+0.0.0.0 mimageads.googleadservices.com
+0.0.0.0 mimageads1.googleadservices.com
+0.0.0.0 mimageads2.googleadservices.com
+0.0.0.0 mimageads3.googleadservices.com
+0.0.0.0 mimageads4.googleadservices.com
+0.0.0.0 mimageads5.googleadservices.com
+0.0.0.0 mimageads6.googleadservices.com
+0.0.0.0 mimageads7.googleadservices.com
+0.0.0.0 mimageads8.googleadservices.com
+0.0.0.0 mimageads9.googleadservices.com
+0.0.0.0 mpartner.googleadservices.com
+0.0.0.0 www.partner.googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 static.googleadsserving.cn
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 buttons.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.tr
+0.0.0.0 adservice.google.com.ua
+0.0.0.0 adservice.google.de
+0.0.0.0 adservice.google.ie
+0.0.0.0 adservice.google.nl
+0.0.0.0 www.googleadservices.com
+0.0.0.0 ad.360yield.com
+0.0.0.0 srv.buysellads.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
