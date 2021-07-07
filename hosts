@@ -1,12 +1,14 @@
 # [youtubeads]
 0.0.0.0 ads.youtube.com
 0.0.0.0 youtube.cleverads.vn
-0.0.0.0  www.youtube-nocookie.com #[affects various videos]
-0.0.0.0  static.2mdn.net #[affects Youtube]
+0.0.0.0 www.youtube-nocookie.com #[affects various videos]
+0.0.0.0 static.2mdn.net #[affects Youtube]
 0.0.0.0 s.youtube.com  # Blocking this will interfere with video watching history
 0.0.0.0 s2.youtube.com
 0.0.0.0 youtube.112.2o7.net
 0.0.0.0 ehg-youtube.hitbox.com
+0.0.0.0 https://yt3.ggpht.com
+0.0.0.0 https://tpc.googlesyndication.com
 
 # [googleads]
 0.0.0.0 googleads2.g.doubleclick.net
@@ -46,3 +48,7 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 ad.360yield.com
 0.0.0.0 srv.buysellads.com
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 clicktrack.pubmatic.com
+0.0.0.0 ams1-ib.adnxs.com
+0.0.0.0 pool.admedo.com
